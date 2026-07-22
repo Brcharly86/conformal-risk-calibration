@@ -29,8 +29,7 @@ data/raw/*.csv
 .vscode/
 !.vscode/settings.json
 
-# Outputs (subimos las imágenes, no los archivos grandes)
-outputs/figures/*.png
+
 
 # Mac
 .DS_Store
