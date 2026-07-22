@@ -258,9 +258,23 @@ This is a portfolio project. However, suggestions and feedback are welcome!
 
 ## 📊 Quick Preview
 
+## 📊 Quick Preview
+
 ### Default Distribution
 
 ![Default Distribution](outputs/figures/default_distribution.png)
+
+### Age Distribution
+
+![Age Distribution](outputs/figures/age_distribution.png)
+
+### Credit Limit Distribution
+
+![Credit Limit Distribution](outputs/figures/credit_limit_distribution.png)
+
+### Correlation Matrix
+
+![Correlation Matrix](outputs/figures/correlation_matrix.png)
 
 ### Feature Importance
 
