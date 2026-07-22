@@ -1,6 +1,6 @@
 # Lessons Learned - Credit Risk Modeling
 
-## 📚 Technical Lessons
+## Technical Lessons
 
 ### 1. Environment & Setup
 
@@ -108,7 +108,7 @@
 
 ---
 
-## 📈 Decisions Made
+## Decisions Made
 
 | Decision | Why |
 |----------|-----|
@@ -121,7 +121,7 @@
 
 ---
 
-## 🔬 What Would I Do Differently?
+## What Would I Do Differently?
 
 1. **More data** → Higher predictive power
 2. **Deeper Feature Engineering** → Interaction variables
@@ -131,7 +131,7 @@
 
 ---
 
-## 💡 Tips for Future Projects
+## Tips for Future Projects
 
 1. **Set up environment first** → Avoid dependency issues
 2. **Deep EDA** → Understand data before modeling
@@ -141,7 +141,7 @@
 
 ---
 
-## 🎯 Key Takeaways
+## Key Takeaways
 
 | Concept | Lesson |
 |---------|--------|

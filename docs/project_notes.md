@@ -1,6 +1,6 @@
 # Project Notes - Credit Risk Modeling
 
-## 📝 General Notes
+## General Notes
 
 ### Project Objective
 Develop a credit default prediction model with:
@@ -35,7 +35,7 @@ Develop a credit default prediction model with:
 
 ---
 
-## 🤔 Questions & Reflections
+## Questions & Reflections
 
 ### 1. Why is PAY_0 the most important variable?
 Recent payment history (last month) captures the client's current behavior. If they paid late this month, they are more likely to remain risky.
@@ -56,7 +56,7 @@ Uncertainty is critical in risk. It's not enough to predict; we need to know whe
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 ### Base Model (Threshold 0.10)
 - Accuracy: 39.72%
@@ -77,7 +77,7 @@ Uncertainty is critical in risk. It's not enough to predict; we need to know whe
 
 ---
 
-## 💡 Technical Decisions
+## Technical Decisions
 
 | Decision | Rationale |
 |----------|-----------|
@@ -90,7 +90,7 @@ Uncertainty is critical in risk. It's not enough to predict; we need to know whe
 
 ---
 
-## 🔍 Model Interpretability
+## Model Interpretability
 
 ### Feature Importance (Top 5)
 
@@ -112,7 +112,7 @@ Uncertainty is critical in risk. It's not enough to predict; we need to know whe
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 
 ### Scenario Analysis
 
@@ -165,7 +165,7 @@ Uncertainty is critical in risk. It's not enough to predict; we need to know whe
 
 ---
 
-## 📚 References
+## References
 
 1. **Dataset:** UCI Machine Learning Repository
    - https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
@@ -186,7 +186,7 @@ Uncertainty is critical in risk. It's not enough to predict; we need to know whe
 
 ---
 
-## 📅 Revision History
+## Revision History
 
 | Date | Changes |
 |------|---------|
