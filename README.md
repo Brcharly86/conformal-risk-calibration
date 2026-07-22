@@ -258,8 +258,6 @@ This is a portfolio project. However, suggestions and feedback are welcome!
 
 ## 📊 Quick Preview
 
-## 📊 Quick Preview
-
 ### Default Distribution
 
 ![Default Distribution](outputs/figures/default_distribution.png)
